@@ -47,28 +47,16 @@ PHILOSOPHY: Build it right, not twice
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
 
 ---
+##  Core Interests
 
-##  GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=1an-muusty" />
-</p>
-
----
-
-##  Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/1an-muusty/1an-muusty/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
+```text
+REST API Design
+System Design
+Database Architecture
+Clean Code Principles
+Scalable Backend Systems
+Object-Oriented Design
+```
 ##  Featured Projects
 
 ### Hospital Management System (Java)
@@ -93,16 +81,26 @@ Small API and database prototypes for learning system design.
 
 ---
 
-##  Core Interests
+##  GitHub Analytics
 
-```text
-REST API Design
-System Design
-Database Architecture
-Clean Code Principles
-Scalable Backend Systems
-Object-Oriented Design
-```
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=1an-muusty" />
+</p>
+
+---
+
+##  Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/1an-muusty/1an-muusty/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ---
 
