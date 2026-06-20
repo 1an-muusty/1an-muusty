@@ -1,102 +1,147 @@
-# Hi, I'm Ian 👨‍💻
+# IAN MEMUSI ⚙️
 
-> Java backend developer focused on building reliable systems, clean APIs, and software that solves real problems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1an-muusty&style=for-the-badge" />
+</p>
 
----
-
-## ⚡ About Me
-
-* Java backend developer (primary focus)
-* Comfortable with Python and SQL
-* Interested in system design and scalable architectures
-* Prefer backend-heavy applications over frontend complexity
-* Development environment: IntelliJ IDEA
-* Focused on writing clean, maintainable code
+> A Java backend developer building scalable systems, clean APIs, and software that actually holds up under pressure.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 System Overview
+
+```text
+ROLE: Backend Developer
+PRIMARY STACK: Java (Spring), SQL
+SECONDARY STACK: Python
+FOCUS: APIs, system design, databases
+PHILOSOPHY: Build it right, not twice
+```
+
+---
+
+## ⚡ What I'm Building
+
+* ⚙️ Backend systems in Java
+* 🧱 Clean, scalable architectures
+* 🗄 Database-driven applications (SQL-first thinking)
+* 🔌 REST APIs and service design
+* 🧪 Experimental backend prototypes
+* 📦 Turning ideas into structured systems
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-333?style=for-the-badge\&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge\&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Frameworks & Tools
+### Tools & Frameworks
 
-![Spring](https://img.shields.io/badge/Spring-333?style=for-the-badge\&logo=spring)
-![Django](https://img.shields.io/badge/Django-333?style=for-the-badge\&logo=django)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-333?style=for-the-badge\&logo=intellij-idea)
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge\&logo=git)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=1an-muusty\&show_icons=true\&cache_seconds=1800)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty\&layout=compact\&cache_seconds=1800)
-
-![](https://streak-stats.demolab.com?user=1an-muusty)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Analytics
 
-[![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1an-muusty\&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=1an-muusty" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/1an-muusty/1an-muusty/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Management System
+### 🏥 Hospital Management System (Java)
 
-Java desktop application with database integration for managing patients, appointments, and records.
+Desktop system for managing patients, appointments, and records.
 
-### 📚 Library Management System
+### 📚 Library Management System (Python + SQLite)
 
-Python + SQLite system with CRUD operations and clean object-oriented design.
+CRUD-based system with clean modular design.
 
-### 🎓 GPA Calculator
+### 🎓 GPA Calculator (PHP + SQLite)
 
-PHP + SQLite application for calculating and managing student grades.
+Simple academic performance tracking system.
 
-### 💻 Java Practice Projects
+### 💻 Java Practice Repository
 
-Collection of OOP exercises, algorithms, and data structures.
+Algorithms, OOP concepts, and data structure exercises.
 
 ### 🧪 Backend Experiments
 
-Small projects exploring APIs, databases, and backend logic.
+Small API and database prototypes for learning system design.
 
 ---
 
-## 🧩 Interests
+## 🧠 Core Interests
 
-* Backend Development
-* System Design
-* REST APIs
-* Database Modeling
-* Scalable Architectures
-* Software Engineering Principles
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ian%20Memusi-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ian-memusi-7b124a340/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-1an--muusty-black?style=for-the-badge\&logo=github)](https://github.com/1an-muusty)
-
-📧 Email: [1anmuusty@gmail.com](mailto:1anmuusty@gmail.com)
+```text
+REST API Design
+System Design
+Database Architecture
+Clean Code Principles
+Scalable Backend Systems
+Object-Oriented Design
+```
 
 ---
 
-## 💀 Developer Philosophy
+## 📈 Contribution Graph
 
-> “If it works and nobody understands how it works, it's either genius or a future production incident.”
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1an-muusty\&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=1an-muusty\&style=for-the-badge)
+## 📡 Connect
+
+<p>
+<a href="https://www.linkedin.com/in/ian-memusi-7b124a340/">
+<img src="https://img.shields.io/badge/LinkedIn-Ian_Memusi-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/1an-muusty">
+<img src="https://img.shields.io/badge/GitHub-1an--muusty-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+📧 [1anmuusty@gmail.com](mailto:1anmuusty@gmail.com)
+
+---
+
+## 💀 Dev Philosophy
+
+```java
+while (alive) {
+    build();
+    breakThings();
+    learn();
+}
+```
+
+> “Good systems don’t happen by accident. They happen after a few disasters.”
+
+---
+
+## 🐍 Bonus
+
+If the snake doesn’t show, it’s not your fault — it just means GitHub Actions hasn’t finished doing its little robot ritual yet.
