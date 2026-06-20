@@ -8,11 +8,11 @@
 
 ---
 
-##  System Overview
+##  Profile
 
 ```text
 ROLE: Backend Developer
-PRIMARY STACK: Java (Spring), SQL
+PRIMARY STACK: Java (Spring Ecosystem), SQL
 SECONDARY STACK: Python
 FOCUS: APIs, system design, databases
 PHILOSOPHY: Build it right, not twice
