@@ -142,6 +142,4 @@ while (alive) {
 
 ---
 
-## 🐍 Bonus
 
-If the snake doesn’t show, it’s not your fault — it just means GitHub Actions hasn’t finished doing its little robot ritual yet.
