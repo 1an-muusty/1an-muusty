@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 System Overview
+##  System Overview
 
 ```text
 ROLE: Backend Developer
@@ -20,14 +20,14 @@ PHILOSOPHY: Build it right, not twice
 
 ---
 
-## ⚡ What I'm Building
+##  What I'm Building
 
-* ⚙️ Backend systems in Java
-* 🧱 Clean, scalable architectures
-* 🗄 Database-driven applications (SQL-first thinking)
-* 🔌 REST APIs and service design
-* 🧪 Experimental backend prototypes
-* 📦 Turning ideas into structured systems
+*  Backend systems in Java
+*  Clean, scalable architectures
+* Database-driven applications (SQL-first thinking)
+*  REST APIs and service design
+*  Experimental backend prototypes
+*  Turning ideas into structured systems
 
 ---
 
@@ -37,7 +37,7 @@ PHILOSOPHY: Build it right, not twice
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
 
 ### Tools & Frameworks
 
@@ -48,7 +48,7 @@ PHILOSOPHY: Build it right, not twice
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&cache_seconds=1800" />
@@ -61,7 +61,7 @@ PHILOSOPHY: Build it right, not twice
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://github.com/1an-muusty/1an-muusty/blob/output/github-contribution-grid-snake.svg" />
@@ -69,31 +69,31 @@ PHILOSOPHY: Build it right, not twice
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏥 Hospital Management System (Java)
+### Hospital Management System (Java)
 
 Desktop system for managing patients, appointments, and records.
 
-### 📚 Library Management System (Python + SQLite)
+###  Library Management System (Python + SQLite)
 
 CRUD-based system with clean modular design.
 
-### 🎓 GPA Calculator (PHP + SQLite)
+###  GPA Calculator (PHP + SQLite)
 
 Simple academic performance tracking system.
 
-### 💻 Java Practice Repository
+###  Java Practice Repository
 
 Algorithms, OOP concepts, and data structure exercises.
 
-### 🧪 Backend Experiments
+###  Backend Experiments
 
 Small API and database prototypes for learning system design.
 
 ---
 
-## 🧠 Core Interests
+##  Core Interests
 
 ```text
 REST API Design
@@ -106,13 +106,7 @@ Object-Oriented Design
 
 ---
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1an-muusty\&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📡 Connect
+##  Connect
 
 <p>
 <a href="https://www.linkedin.com/in/ian-memusi-7b124a340/">
@@ -128,17 +122,9 @@ Object-Oriented Design
 
 ---
 
-## 💀 Dev Philosophy
 
-```java
-while (alive) {
-    build();
-    breakThings();
-    learn();
-}
-```
 
-> “Good systems don’t happen by accident. They happen after a few disasters.”
+
 
 ---
 
