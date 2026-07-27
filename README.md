@@ -1,118 +1,183 @@
-# IAN MEMUSI ⚙️
+````md
+<h1 align="center">IAN MEMUSI</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1an-muusty&style=for-the-badge" />
+Java Backend Developer • Python Developer • SQL • System Design
 </p>
 
-> A Java backend developer building scalable systems, clean APIs, and software that actually holds up under pressure.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1an-muusty&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+Building scalable backend systems, clean APIs, and reliable software with a strong focus on Java and database-driven applications.
+</p>
 
 ---
 
-##  Profile
+## About Me
 
 ```text
-ROLE: Backend Developer
-PRIMARY STACK: Java (Spring Ecosystem), SQL
-SECONDARY STACK: Python
-FOCUS: APIs, system design, databases
-PHILOSOPHY: Build it right, not twice
+ROLE           Backend Developer
+PRIMARY STACK  Java (Spring Ecosystem), SQL
+SECONDARY      Python
+INTERESTS      System Design, REST APIs, Database Architecture
+IDE            IntelliJ IDEA
+GOAL           Build software that is scalable, maintainable, and solves real-world problems.
 ```
 
----
-
-##  What I'm Building
-
-*  Backend systems in Java
-*  Clean, scalable architectures
-* Database-driven applications (SQL-first thinking)
-*  REST APIs and service design
-*  Experimental backend prototypes
-*  Turning ideas into structured systems
+I enjoy designing backend systems that are clean, modular, and built to scale. My primary focus is Java backend development, while Python serves as a practical tool for automation, scripting, and rapid application development. I'm particularly interested in software architecture, API design, database optimization, and writing maintainable code.
 
 ---
 
-## 🛠 Tech Stack
+## Current Focus
+
+- Java Backend Development
+- Spring Boot
+- REST API Design
+- SQL Database Design
+- Software Architecture
+- System Design
+- Clean Code Principles
+- Object-Oriented Programming
+
+---
+
+## Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,js" />
+</p>
 
+### Frameworks & Technologies
 
-### Tools & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=spring,django" />
+</p>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,linux" />
+</p>
 
 ---
-##  Core Interests
 
-```text
-REST API Design
-System Design
-Database Architecture
-Clean Code Principles
-Scalable Backend Systems
-Object-Oriented Design
-```
-##  Featured Projects
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=1an-muusty&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1an-muusty&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Featured Projects
 
 ### Hospital Management System (Java)
 
-Desktop system for managing patients, appointments, and records.
+Desktop application for managing patients, appointments, medical records, and administrative workflows.
 
-###  Library Management System (Python + SQLite)
-
-CRUD-based system with clean modular design.
-
-###  GPA Calculator (PHP + SQLite)
-
-Simple academic performance tracking system.
-
-###  Java Practice Repository
-
-Algorithms, OOP concepts, and data structure exercises.
-
-###  Backend Experiments
-
-Small API and database prototypes for learning system design.
+**Technologies:** Java
 
 ---
 
+### Library Management System
+
+A modular desktop application supporting CRUD operations and persistent storage.
+
+**Technologies:** Python, SQLite
 
 ---
 
+### GPA Calculator
+
+Academic performance tracker with persistent database support.
+
+**Technologies:** PHP, SQLite
+
 ---
 
-##  Connect
+### Chrome Dinosaur Clone
+
+A Java implementation of the Chrome Dinosaur game focusing on object-oriented design, collision detection, and game logic.
+
+**Technologies:** Java
+
+---
+
+### Missing Person Database
+
+A web application for recording, searching, and managing missing person reports.
+
+**Technologies:** Python, Django, MySQL
+
+---
+
+### Java Practice Repository
+
+A collection of Java projects exploring:
+
+- Object-Oriented Programming
+- Collections Framework
+- File Handling
+- Exception Handling
+- Algorithms
+- Data Structures
+
+---
+
+## Areas of Interest
+
+- Backend Engineering
+- REST APIs
+- System Design
+- Software Architecture
+- Database Design
+- SQL Optimization
+- Distributed Systems
+- Performance Optimization
+- Clean Code
+
+---
+
+## Currently Learning
+
+- Spring Boot
+- Microservices
+- Docker
+- Design Patterns
+- Distributed Systems
+- Cloud Technologies
+
+---
+
+## Connect
 
 <p>
 <a href="https://www.linkedin.com/in/ian-memusi-7b124a340/">
-<img src="https://img.shields.io/badge/LinkedIn-Ian_Memusi-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Ian%20Memusi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/1an-muusty">
-<img src="https://img.shields.io/badge/GitHub-1an--muusty-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-1an--muusty-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 
-📧 [1anmuusty@gmail.com](mailto:1anmuusty@gmail.com)
-
----
-https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight)
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight)
-
-
-
-
+**Email:** 1anmuusty@gmail.com
 
 ---
 
-
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*  
+> **— Harold Abelson**
+````
