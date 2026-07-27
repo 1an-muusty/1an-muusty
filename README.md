@@ -101,6 +101,13 @@ Small API and database prototypes for learning system design.
 📧 [1anmuusty@gmail.com](mailto:1anmuusty@gmail.com)
 
 ---
+https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight)
 
 
 
