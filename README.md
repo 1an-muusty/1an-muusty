@@ -2,8 +2,6 @@
   <img src="1.png" alt="Ian Memusi Banner" width="100%" />
 </p>
 
-<h1 align="center">IAN MEMUSI</h1>
-
 <p align="center">
   <strong>Software Developer • Java Backend • Spring Boot • SQL</strong>
 </p>
