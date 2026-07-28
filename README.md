@@ -72,22 +72,6 @@ GOAL        Build scalable software systems
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=1an-muusty&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # Featured Projects
 
 ## 🌍 Missing Person Database
