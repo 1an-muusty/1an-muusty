@@ -1,8 +1,7 @@
-
 <h1 align="center">IAN MEMUSI</h1>
 
 <p align="center">
-  <strong>Java Backend Developer • Spring Boot Enthusiast • SQL • System Design</strong>
+  <strong>Java Backend Developer • SQL • Spring Boot • System Design</strong>
 </p>
 
 <p align="center">
@@ -16,13 +15,12 @@ Building scalable backend systems, clean APIs, and database-driven applications 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Building+REST+APIs;Learning+Spring+Boot;Database+Driven+Applications;Always+Learning." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+REST+APIs;Database-Driven+Applications;System+Design+Enthusiast;Clean+Code+Advocate"/>
 </p>
 
 ---
 
 # About Me
-
 
 ROLE           Backend Developer
 
@@ -30,8 +28,8 @@ PRIMARY STACK  Java • Spring Boot • SQL
 
 SECONDARY      Python
 
-INTERESTS      System Design
-               REST APIs
+INTERESTS      REST APIs
+               System Design
                Software Architecture
                Database Design
 
@@ -43,8 +41,7 @@ TOOLS          IntelliJ IDEA
 GOAL           Build scalable backend software
                that solves real-world problems.
 
-
-I'm passionate about backend engineering and enjoy building applications that emphasize clean architecture, maintainable code, and efficient database design. Java is my primary language, while Python complements my workflow for scripting and rapid development. I'm continually improving my knowledge of Spring Boot, system design, and modern backend technologies.
+I'm a software developer with a primary focus on Java backend development. I enjoy designing scalable systems, building REST APIs, working with relational databases, and writing clean, maintainable code. Python complements my workflow for scripting, rapid prototyping, and automation while I continue deepening my knowledge of Spring Boot and modern backend architecture.
 
 ---
 
@@ -52,26 +49,36 @@ I'm passionate about backend engineering and enjoy building applications that em
 
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,js" />
 </p>
 
-### Backend
+### Backend & Frameworks
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,django" />
 </p>
 
 ### Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ### Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=idea,git,github,postman,vscode,linux" />
+</p>
+
+---
+
+# Language Usage
+
+> Automatically generated from my public repositories and updated as my projects evolve.
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
 
 ---
@@ -82,20 +89,16 @@ I'm passionate about backend engineering and enjoy building applications that em
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1an-muusty&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=1an-muusty&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1an-muusty&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -103,13 +106,13 @@ I'm passionate about backend engineering and enjoy building applications that em
 # Current Focus
 
 - Java Backend Development
-- Spring Boot
-- REST API Design
+- Spring Boot REST APIs
+- SQL Database Design & Optimization
 - System Design
-- SQL Database Optimization
 - Software Architecture
 - Object-Oriented Programming
 - Clean Code Practices
+- Backend Performance
 
 ---
 
@@ -117,22 +120,26 @@ I'm passionate about backend engineering and enjoy building applications that em
 
 ## 🏥 Hospital Management System
 
-A desktop application built in Java for managing patients, appointments, records, and hospital operations.
+**Java Desktop Application**
 
-**Highlights**
+A hospital management system designed to manage patients, appointments, medical records, and administrative workflows using object-oriented programming principles.
 
-- Object-Oriented Design
+**Technologies**
+
+- Java
+- OOP
+- File Handling
 - Modular Architecture
-- CRUD Operations
-- File & Database Management
 
 ---
 
 ## 🌍 Missing Person Database
 
-A Django-based web application for managing missing person records with authentication and database integration.
+**Backend Web Application**
 
-**Tech**
+A Django-based system for reporting, searching, and managing missing person records with secure authentication and database integration.
+
+**Technologies**
 
 - Python
 - Django
@@ -143,35 +150,38 @@ A Django-based web application for managing missing person records with authenti
 
 ## 🦖 Chrome Dinosaur Clone
 
-A recreation of the Chrome Dinosaur game focusing on Java fundamentals and object-oriented programming.
+**Java Game Development**
 
-**Highlights**
+A recreation of Google's Chrome Dinosaur game focusing on Java fundamentals, object-oriented programming, collision detection, and game loop architecture.
+
+**Technologies**
 
 - Java
-- Game Loop
-- Collision Detection
+- Swing
 - OOP
 
 ---
 
 ## 📚 Library Management System
 
-A desktop application for managing books and inventory using Python and SQLite.
+**Desktop Application**
 
-**Highlights**
+A modular CRUD application for managing books, borrowers, and inventory using SQLite for persistent storage.
 
-- CRUD Operations
-- SQLite Database
-- Search Functionality
-- Modular Design
+**Technologies**
+
+- Python
+- SQLite
 
 ---
 
 ## 🎓 GPA Calculator
 
-A lightweight application for tracking academic performance.
+**Academic Utility**
 
-**Tech**
+A lightweight application that calculates GPA and tracks academic performance.
+
+**Technologies**
 
 - PHP
 - SQLite
@@ -180,39 +190,29 @@ A lightweight application for tracking academic performance.
 
 ## ☕ Java Practice Repository
 
-A collection of Java projects exploring:
+A collection of Java projects covering:
 
 - Object-Oriented Programming
 - Collections Framework
 - Data Structures
 - Algorithms
-- File Handling
 - Exception Handling
+- File Handling
 
 ---
 
 # Areas of Interest
 
 - Backend Engineering
-- REST API Development
+- Java Development
+- REST API Design
 - System Design
 - Software Architecture
-- Database Architecture
+- Database Design
 - SQL Optimization
 - Distributed Systems
 - Performance Optimization
 - Clean Code
-
----
-
-# Currently Learning
-
-- Spring Boot
-- Docker
-- Design Patterns
-- Microservices
-- Cloud Fundamentals
-- Distributed Systems
 
 ---
 
@@ -237,10 +237,7 @@ A collection of Java projects exploring:
 ---
 
 <p align="center">
-
-<i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
-
+<i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br>
 <b>— Harold Abelson</b>
-
 </p>
 ````
