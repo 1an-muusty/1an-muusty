@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="banner.png" alt="Ian Memusi Banner" width="100%" />
+  <img src="1.png" alt="Ian Memusi Banner" width="100%" />
 </p>
 
 <h1 align="center">IAN MEMUSI</h1>
 
 <p align="center">
-  <strong>Java Backend Developer • SQL • Spring Boot • System Design</strong>
+  <strong>Software Developer • Java Backend • Spring Boot • SQL</strong>
 </p>
 
 <p align="center">
-Building scalable backend systems, clean APIs, and database-driven applications with a focus on writing reliable, maintainable software.
+  Building reliable backend systems, REST APIs, and database-driven applications with a focus on clean architecture and maintainable code.
 </p>
 
 <p align="center">
@@ -18,36 +18,31 @@ Building scalable backend systems, clean APIs, and database-driven applications 
   </a>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+REST+APIs;Database-Driven+Applications;System+Design+Enthusiast;Clean+Code+Advocate"/>
-</p>
-
 ---
 
-# About Me
+## About Me
+
+I'm a Software Development student focused on backend engineering, especially Java, Spring Boot, SQL, and system design.
+
+I enjoy building applications that solve practical problems through clean code, structured architecture, and efficient database design.
 
 ```text
-ROLE           Backend Developer
+ROLE        Software Developer
 
-PRIMARY STACK  Java • Spring Boot • SQL
+FOCUS       Java Backend Development
 
-SECONDARY      Python
+STACK       Java • Spring Boot • SQL
 
-INTERESTS      REST APIs
-               System Design
-               Software Architecture
-               Database Design
+ALSO        Python • Django • Web Development
 
-TOOLS          IntelliJ IDEA
-               Git
-               GitHub
-               Postman
+INTERESTS   REST APIs
+            System Design
+            Software Architecture
+            Database Design
 
-GOAL           Build scalable backend software
-               that solves real-world problems.
+GOAL        Build scalable software systems
+            that create real-world impact.
 ```
-
-I'm a software developer with a primary focus on Java backend development. I enjoy designing scalable systems, building REST APIs, working with relational databases, and writing clean, maintainable code. Python complements my workflow for scripting and rapid prototyping while I continue expanding my expertise in Spring Boot and modern backend architecture.
 
 ---
 
@@ -56,7 +51,7 @@ I'm a software developer with a primary focus on Java backend development. I enj
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=java,python,php,cpp,js,html,css"/>
 </p>
 
 ### Backend & Frameworks
@@ -74,17 +69,7 @@ I'm a software developer with a primary focus on Java backend development. I enj
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=idea,git,github,postman,vscode,linux"/>
-</p>
-
----
-
-# Language Usage
-
-Automatically generated from my public repositories.
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,androidstudio,postman,vscode"/>
 </p>
 
 ---
@@ -92,101 +77,76 @@ Automatically generated from my public repositories.
 # GitHub Statistics
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=1an-muusty&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1an-muusty&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# Current Focus
-
-- Java Backend Development
-- Spring Boot REST APIs
-- SQL Database Design
-- System Design
-- Software Architecture
-- Object-Oriented Programming
-- Clean Code
-- Backend Performance
-
 ---
 
 # Featured Projects
 
-## 🏥 Hospital Management System
-
-Java desktop application for managing patients, appointments, records, and hospital workflows using object-oriented principles.
-
-**Tech:** Java
-
----
-
 ## 🌍 Missing Person Database
 
-Backend web application for managing missing-person reports with authentication and database integration.
+A web-based system for reporting and managing missing-person records with authentication and database integration.
 
-**Tech:** Python • Django • MySQL • Bootstrap
+**Technologies:** Django • Python • MySQL • Bootstrap
 
 ---
 
 ## 🦖 Chrome Dinosaur Clone
 
-Java recreation of Chrome's Dinosaur game focusing on OOP, collision detection, and game architecture.
+A Java recreation of the Chrome Dinosaur game focused on object-oriented programming, game loops, collision detection, and Java architecture.
 
-**Tech:** Java
-
----
-
-## 📚 Library Management System
-
-Desktop CRUD application with persistent SQLite storage.
-
-**Tech:** Python • SQLite
+**Technologies:** Java
 
 ---
 
-## 🎓 GPA Calculator
+## 📚 Simple Library Management System
 
-Academic performance tracking application.
+A desktop CRUD application for managing books and records with persistent local storage.
 
-**Tech:** PHP • SQLite
-
----
-
-## ☕ Java Practice Repository
-
-Projects covering:
-
-- OOP
-- Collections
-- Algorithms
-- Data Structures
-- Exception Handling
-- File Handling
+**Technologies:** Python • SQLite • GUI
 
 ---
 
-# Areas of Interest
+## 🌦 Weather Application
 
-- Backend Engineering
-- REST APIs
-- Java
-- Spring Boot
-- SQL
-- System Design
-- Software Architecture
-- Database Optimization
+A JavaFX application that retrieves and displays weather information through a user-friendly interface.
+
+**Technologies:** Java • JavaFX
+
+---
+
+## ☕ Java Practice Projects
+
+A collection of Java projects exploring:
+
+* Object-Oriented Programming
+* Collections
+* Algorithms
+* Data Structures
+* Exception Handling
+* File Handling
+
+**Technologies:** Java
+
+---
+
+# Current Focus
+
+* Java Backend Development
+* Spring Boot REST APIs
+* SQL Database Design
+* System Design
+* Software Architecture
+* Clean Code Practices
 
 ---
 
@@ -211,6 +171,5 @@ Projects covering:
 ---
 
 <p align="center">
-<i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br>
-<b>— Harold Abelson</b>
+<i>Clean code. Scalable systems. Continuous improvement.</i>
 </p>
