@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Ian Memusi Banner" width="100%" />
+</p>
+
 <h1 align="center">IAN MEMUSI</h1>
 
 <p align="center">
@@ -15,13 +19,14 @@ Building scalable backend systems, clean APIs, and database-driven applications 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+REST+APIs;Database-Driven+Applications;System+Design+Enthusiast;Clean+Code+Advocate"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+REST+APIs;Database-Driven+Applications;System+Design+Enthusiast;Clean+Code+Advocate"/>
 </p>
 
 ---
 
 # About Me
 
+```text
 ROLE           Backend Developer
 
 PRIMARY STACK  Java • Spring Boot • SQL
@@ -40,8 +45,9 @@ TOOLS          IntelliJ IDEA
 
 GOAL           Build scalable backend software
                that solves real-world problems.
+```
 
-I'm a software developer with a primary focus on Java backend development. I enjoy designing scalable systems, building REST APIs, working with relational databases, and writing clean, maintainable code. Python complements my workflow for scripting, rapid prototyping, and automation while I continue deepening my knowledge of Spring Boot and modern backend architecture.
+I'm a software developer with a primary focus on Java backend development. I enjoy designing scalable systems, building REST APIs, working with relational databases, and writing clean, maintainable code. Python complements my workflow for scripting and rapid prototyping while I continue expanding my expertise in Spring Boot and modern backend architecture.
 
 ---
 
@@ -50,32 +56,32 @@ I'm a software developer with a primary focus on Java backend development. I enj
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,js"/>
 </p>
 
 ### Backend & Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,django" />
+<img src="https://skillicons.dev/icons?i=spring,django"/>
 </p>
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=idea,git,github,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=idea,git,github,postman,vscode,linux"/>
 </p>
 
 ---
 
 # Language Usage
 
-> Automatically generated from my public repositories and updated as my projects evolve.
+Automatically generated from my public repositories.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
@@ -89,7 +95,7 @@ I'm a software developer with a primary focus on Java backend development. I enj
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=1an-muusty&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1an-muusty&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1an-muusty&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,11 +113,11 @@ I'm a software developer with a primary focus on Java backend development. I enj
 
 - Java Backend Development
 - Spring Boot REST APIs
-- SQL Database Design & Optimization
+- SQL Database Design
 - System Design
 - Software Architecture
 - Object-Oriented Programming
-- Clean Code Practices
+- Clean Code
 - Backend Performance
 
 ---
@@ -120,82 +126,52 @@ I'm a software developer with a primary focus on Java backend development. I enj
 
 ## 🏥 Hospital Management System
 
-**Java Desktop Application**
+Java desktop application for managing patients, appointments, records, and hospital workflows using object-oriented principles.
 
-A hospital management system designed to manage patients, appointments, medical records, and administrative workflows using object-oriented programming principles.
-
-**Technologies**
-
-- Java
-- OOP
-- File Handling
-- Modular Architecture
+**Tech:** Java
 
 ---
 
 ## 🌍 Missing Person Database
 
-**Backend Web Application**
+Backend web application for managing missing-person reports with authentication and database integration.
 
-A Django-based system for reporting, searching, and managing missing person records with secure authentication and database integration.
-
-**Technologies**
-
-- Python
-- Django
-- MySQL
-- Bootstrap
+**Tech:** Python • Django • MySQL • Bootstrap
 
 ---
 
 ## 🦖 Chrome Dinosaur Clone
 
-**Java Game Development**
+Java recreation of Chrome's Dinosaur game focusing on OOP, collision detection, and game architecture.
 
-A recreation of Google's Chrome Dinosaur game focusing on Java fundamentals, object-oriented programming, collision detection, and game loop architecture.
-
-**Technologies**
-
-- Java
-- Swing
-- OOP
+**Tech:** Java
 
 ---
 
 ## 📚 Library Management System
 
-**Desktop Application**
+Desktop CRUD application with persistent SQLite storage.
 
-A modular CRUD application for managing books, borrowers, and inventory using SQLite for persistent storage.
-
-**Technologies**
-
-- Python
-- SQLite
+**Tech:** Python • SQLite
 
 ---
 
 ## 🎓 GPA Calculator
 
-**Academic Utility**
+Academic performance tracking application.
 
-A lightweight application that calculates GPA and tracks academic performance.
-
-**Technologies**
-
-- PHP
-- SQLite
+**Tech:** PHP • SQLite
 
 ---
 
 ## ☕ Java Practice Repository
 
-A collection of Java projects covering:
+Projects covering:
 
-- Object-Oriented Programming
-- Collections Framework
-- Data Structures
+- OOP
+- Collections
 - Algorithms
+- Data Structures
 - Exception Handling
 - File Handling
 
@@ -204,15 +180,13 @@ A collection of Java projects covering:
 # Areas of Interest
 
 - Backend Engineering
-- Java Development
-- REST API Design
+- REST APIs
+- Java
+- Spring Boot
+- SQL
 - System Design
 - Software Architecture
-- Database Design
-- SQL Optimization
-- Distributed Systems
-- Performance Optimization
-- Clean Code
+- Database Optimization
 
 ---
 
@@ -240,4 +214,3 @@ A collection of Java projects covering:
 <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br>
 <b>— Harold Abelson</b>
 </p>
-````
